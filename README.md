@@ -4,7 +4,7 @@ Fast and lightweight windows x86 gui app that converts in place a file with iden
 
 # Installation
 
-Download `SmartTable IDs Converter.exe` from:  
+Download `SmartTable IDs Converter.exe` from: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14655971.svg)](https://doi.org/10.5281/zenodo.14655971)
 
 ## Usage
 
