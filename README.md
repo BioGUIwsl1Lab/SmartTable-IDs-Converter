@@ -4,7 +4,7 @@ x86-64 docker container that converts in place a file with identifiers derived f
 
 # Installation
 
-Download `smarttable_ids_onverter.py` from `src/`
+Download `smarttable_ids_converter.py` from `src/`
 
 ## Usage
 
