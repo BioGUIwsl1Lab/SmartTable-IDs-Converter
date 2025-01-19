@@ -1,5 +1,5 @@
-# SmartTable-IDs-Converter
-Fast and lightweight windows x86 gui app that converts in place a file with identifiers derived from metacyc/biocyc/plantcyc into a 1-column txt file 
+# SmartTable-or-Enriched-IDs-Converter
+Fast and lightweight windows x86 gui app that converts in place a file with identifiers derived from metacyc/biocyc/plantcyc/KEGG/kobas/plant metgenmap into a 1-column txt file
 
 ## Dependencies
 
